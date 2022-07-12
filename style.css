@@ -3,9 +3,24 @@ html {
 }
 body {
     width: 100%;
-    background: linear-gradient(lightblue, pink);
+    background: url(https://www.themanual.com/wp-content/uploads/sites/9/2021/04/seattle-washington-travel-city-guide.jpg?p=1);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font: arial;
 }
-h1 {
-    font-family: 'Alegreya Sans SC', sans-serif;
-    font-size: 75px;
+#emma {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%; 
+    border: 10px solid #fff;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}
+#main {
+    font-size: large;
+    background-color: #fff;
+    font-weight: bold;
 }
