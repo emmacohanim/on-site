@@ -31,10 +31,15 @@ div {
     margin-left: auto;
     margin-right: auto;
 }
-.about-me {
+.aboutme {
     font-weight: bold;
 }
 .contact {
     font-weight: bold;
 }
-
+#small1 {
+    display: none;
+}
+#small2 {
+    display: none;
+}
